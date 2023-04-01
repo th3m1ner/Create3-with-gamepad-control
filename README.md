@@ -10,7 +10,7 @@ https://github.com/zeth/inputs
 
 pip install inputs
 
-Joystick to differential drive code was found here:
+Joystick to differential drive code was found here (Thank you!) :
 
 https://www.instructables.com/Joystick-to-Differential-Drive-Python/
 
